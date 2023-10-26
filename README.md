@@ -1,5 +1,6 @@
-# mordgren-kb60
-My 60% KB
+# mordgren-kb50
+My 50% KB
+
 KLE:
 [{a:7},"Esc","Q","W","E","R","T","Y","U","I","O","P","[","]",{w:2},"Back Space","1","2"],
 ["Tab","A","S","D","F","G","H","J","K","L",";","'","\\",{w:2},"Enter","3","4"],
