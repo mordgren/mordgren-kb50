@@ -1,6 +1,6 @@
 {
     "manufacturer": "mordgren",
-    "keyboard_name": "602",
+    "keyboard_name": "k50",
     "maintainer": "mordgren",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
